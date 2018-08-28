@@ -3,8 +3,7 @@ _____________________
 
 What is it for?
 
-    It's a little part of selenium macros / test what keep a google 2 auth based
-on back ups codes.
+It's a little part of selenium macros / test what keep a google 2 auth based on back ups codes.
 
 So you need just to get your backup codes - and you can automate routine step
 with selenium
@@ -66,8 +65,8 @@ Get Backup codes for your account with 2-Step Verification:
 
 https://myaccount.google.com/u/1/signinoptions/two-step-verification:
 
-    Backup codes --> SHOW CODE --> DOWNLOAD
+Backup codes --> SHOW CODE --> DOWNLOAD
 
 If no codes exist - click GET NEW CODES and when --> DOWNLOAD
 
-Put you file Backup-codes-{youraccount}.txt in 'tmp' dir
+Put you file Backup-codes-{youraccount}.txt in your GMAIL_CODES env
